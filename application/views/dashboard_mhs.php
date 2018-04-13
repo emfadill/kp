@@ -29,7 +29,7 @@ desired effect
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Admin</b>LTE</span>
+      <span class="logo-lg"><b>Bimbingan</b>Online</span>
     </a>
 
     <!-- Header Navbar -->
@@ -228,26 +228,22 @@ desired effect
         <li>
           <a href="#">
             <i class="fa fa-files-o"></i>
-            <span>Action MHS #1</span>
+            <span>Bimbingan</span>
           </a>
         </li>
         <li>
           <a href="#">
-            <i class="fa fa-th"></i> <span>Action MHS #2</span>
+            <i class="fa fa-th"></i> <span>Edit Profil</span>
           </a>
         </li>
         <li>
           <a href="#">
             <i class="fa fa-pie-chart"></i>
-            <span>Action MHS #3</span>
+            <span>Logout</span>
           </a>
         </li>
         <li>
-          <a href="#">
-            <i class="fa fa-laptop"></i>
-            <span>Action MHS #4</span>
-          </a>
-        </li>
+          
         
       </ul>
       <!-- /.sidebar-menu -->
